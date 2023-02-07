@@ -46,7 +46,7 @@ _이텔릭_<br />
 
 <a href="http://naver.com" title="naver로 이동!">NAVER</a>
 
-[NAVER](ttp://naver.com "naver로 이동!")
+[NAVER](http://naver.com "naver로 이동!")
 
 <a href="http://naver.com" title="naver로 이동!" target="_blank">NAVER</a>
 
